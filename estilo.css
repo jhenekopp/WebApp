@@ -1,0 +1,40 @@
+html {margin: 0; padding: 0; height: 100%;}
+
+body{
+	height: 100%;
+	width: 95%;
+	max-width: 800px;
+	margin: auto;
+	
+	font-family: 'Lato';
+	line-height: 1.5;
+	color: black;
+	background:url("nasa.jpg") fixed;
+
+}
+#cabecalho{
+	background: #948888d1 ;
+	border-radius:10px;
+	padding: 10px 40px;
+}
+
+a{
+
+	color: #09e5fb;
+	text-decoration: none;
+	font-family: 'Lato';
+	padding: 25px;
+}
+
+
+main {
+	background: #fffffffa;
+	padding: 10px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+img{
+	height: 100%;
+	width: 100%;
+
+}
